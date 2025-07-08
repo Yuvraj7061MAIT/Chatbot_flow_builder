@@ -94,22 +94,3 @@ The app runs at `http://localhost:3000`
 * Shows success toast if validation passes.
 
 ---
-
-## 📌 Future Scope
-
-* Add more node types (e.g., Image, Button, Input)
-* Export/Import flow as JSON
-* Backend integration for saving flow
-
----
-
-## 🙌 Contributing
-
-Feel free to open issues or submit PRs.
-
-```bash
-git checkout -b feature/your-feature
-git commit -m "✨ Add new feature"
-git push origin feature/your-feature
-```
-
