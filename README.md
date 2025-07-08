@@ -52,7 +52,6 @@ src/
 
 ```bash
 git clone https://github.com/your-username/chatbot-flow-builder.git
-cd chatbot-flow-builder
 ````
 
 ### 2. Install Dependencies
