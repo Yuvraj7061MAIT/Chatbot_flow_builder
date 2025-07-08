@@ -1,0 +1,11 @@
+.send-message-node {
+  background-color: #f0f4ff;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #c3dafe;
+  font-size: 14px;
+  font-weight: 500;
+  min-width: 150px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}

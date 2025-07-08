@@ -1,0 +1,15 @@
+.settings-panel {
+  width: 180px;
+  background: #fefefe;
+  padding: 15px;
+  border-right: 1px solid #ddd;
+  height: 100vh;
+}
+
+.settings-panel input {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
